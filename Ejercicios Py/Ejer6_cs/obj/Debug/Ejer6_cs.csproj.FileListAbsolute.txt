@@ -1,0 +1,7 @@
+D:\Tareas UPN\Ejercicios C#\Ejer1\Ejer6_cs\bin\Debug\Ejer6_cs.exe.config
+D:\Tareas UPN\Ejercicios C#\Ejer1\Ejer6_cs\bin\Debug\Ejer6_cs.exe
+D:\Tareas UPN\Ejercicios C#\Ejer1\Ejer6_cs\bin\Debug\Ejer6_cs.pdb
+D:\Tareas UPN\Ejercicios C#\Ejer1\Ejer6_cs\obj\Debug\Ejer6_cs.csproj.AssemblyReference.cache
+D:\Tareas UPN\Ejercicios C#\Ejer1\Ejer6_cs\obj\Debug\Ejer6_cs.csproj.CoreCompileInputs.cache
+D:\Tareas UPN\Ejercicios C#\Ejer1\Ejer6_cs\obj\Debug\Ejer6_cs.exe
+D:\Tareas UPN\Ejercicios C#\Ejer1\Ejer6_cs\obj\Debug\Ejer6_cs.pdb

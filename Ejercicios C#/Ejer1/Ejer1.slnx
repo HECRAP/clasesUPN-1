@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="Ejer1/Ejer5_c#.csproj" Id="bbc3869c-ce52-4ab2-b284-6a369cbd6f7b" />
+  <Project Path="Ejer5_py/Ejer5_py.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="f8778d78-dc8a-44bd-8782-10e47fb526ca">
+    <Build Project="false" />
+  </Project>
+  <Project Path="Ejer6_cs/Ejer6_cs.csproj" Id="9b5fd016-76db-46be-bdf5-4d9c4f389ae9" />
+  <Project Path="Ejer6_py/Ejer6_py.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="fbef38e5-1ef0-4037-a146-d2b7c68d031f">
+    <Build Project="false" />
+  </Project>
+</Solution>
